@@ -1,6 +1,6 @@
 Program parouimpar ;
 
-//usando função par identificar se um número é par ou ímpar
+//usando função para identificar se um número é par ou ímpar
 
 Function PAROUIMPAR(numero:integer):string;
 	BEGIN
