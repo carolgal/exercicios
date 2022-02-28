@@ -1,6 +1,4 @@
 ## Prática
 
-Exercícios realizados para a prática em algoritimos e lógica de programação
-na faculdade
-
+Exercícios realizados para praticar lógica de programação e algoritmos
 
