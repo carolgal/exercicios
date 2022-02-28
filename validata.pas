@@ -1,5 +1,5 @@
 Program validata;
-//FUP que leia dia, mês e ano e informe se a data lida é válida ou não.
+//leitura de dia, mês e ano e para validação
 
 //=========================================
 //ano -> inválido se menor que 1940

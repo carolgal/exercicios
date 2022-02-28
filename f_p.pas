@@ -1,4 +1,4 @@
-Program T02 ;     
+Program 02 ;     
 
 //utilização de procedure e function 
 
