@@ -24,5 +24,5 @@ if carro=="L" and km<=200:
 elif carro=="L" and km>200:
     alukm=0.25*km
     totall=alulux+alukm
-    print("O valor do alugeul é de R$", totall)
+    print("O valor do aluguel é de R$", totall)
 
